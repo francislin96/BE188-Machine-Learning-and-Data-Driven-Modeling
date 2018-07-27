@@ -23,3 +23,5 @@ Lab 5: Dynamical Models
 Lab 6: Hidden Markov Models
 
 Lab 7: SVM
+
+Final Project: ISGF3 and Antiproliferative Activities of Type I Interferons
