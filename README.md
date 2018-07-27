@@ -11,9 +11,15 @@ Manipulating biological systems requires techniques to interpret complex measure
 ### Labs:
 
 Lab 1: Introduction
+
 Lab 2: Statistics
+
 Lab 3: Fitting
+
 Lab 4: PLSR
+
 Lab 5: Dynamical Models
+
 Lab 6: Hidden Markov Models
+
 Lab 7: SVM
